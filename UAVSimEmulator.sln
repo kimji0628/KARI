@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UAVSimEmulator", "UAVSimEmulator\UAVSimEmulator.vcproj", "{3F9A73EC-E563-42B2-8584-D0A3E0259A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9A73EC-E563-42B2-8584-D0A3E0259A78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F9A73EC-E563-42B2-8584-D0A3E0259A78}.Debug|Win32.Build.0 = Debug|Win32
+		{3F9A73EC-E563-42B2-8584-D0A3E0259A78}.Release|Win32.ActiveCfg = Release|Win32
+		{3F9A73EC-E563-42B2-8584-D0A3E0259A78}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
